@@ -1,16 +1,40 @@
-# explore_ease
+<!-- Project Logo and Name -->
+<div align="center">
+  <h1>Explore Ease</h1>
+</div>
 
-A new Flutter project.
+<!-- About The Project -->
+## About The Project
 
+• Explore Ease is a City Exploration app made with Flutter,
+showcasing proficiency in Dart programming language and
+Flutter framework.
+
+• Prioritized user convenience by incorporating one-click access
+to Google Search about specific locations, enhancing the overall
+experience.
+
+• Allowing users to seamlessly open selected locations directly
+on Google Maps for efficient and accurate navigation.
+
+<!-- Built With -->
+## Built With
+
+* Flutter
+* Dart
+* Firebase
+
+<!-- Getting Started -->
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these steps.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Shubhamsahu1101/City_Exploration_App
+2. Get the dependencies
+   ```sh
+   flutter pub get
+3. Run
+   ```sh
+   flutter run
